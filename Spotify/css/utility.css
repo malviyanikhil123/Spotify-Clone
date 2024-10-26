@@ -1,0 +1,7 @@
+.invert{
+    filter: invert(1);
+}
+
+.logo{
+    height: 30px;
+}
